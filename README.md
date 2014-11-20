@@ -4,7 +4,7 @@ X-Maze
 The software is intended to use *game addiction* for real life problem solving ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 **PRINCIPLE** is to allow teachers to design their mazes with problems inside tunnels between rooms.<br>
-**REWARD** is to find/meet other people who move same direction, to unlock secrets together, and get money.<br>
+**REWARD** is to meet other people who move same direction, to unlock secrets together, and get money.<br>
 **MONEY FROM:** schools, universities, businesses.<br>
 **MONEY TO:** all people who play the game.
 
