@@ -4,14 +4,13 @@ X-Maze
 The software would allow teachers to design their maze with tunnels and problems within ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 ******************************************************************************
-## Installation Example:
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
 
 2. Run:
 python main.py
 
-**For example:**
+## Installation Example:
 
 ```bash
 wget http://www.panda3d.org/download/panda3d-1.8.1/panda3d1.8_1.8.1~precise_amd64.deb
