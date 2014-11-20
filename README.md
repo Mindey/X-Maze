@@ -3,7 +3,6 @@ X-Maze
 
 The software would allow teachers to design their maze with tunnels and problems within ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
-******************************************************************************
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
 
@@ -33,7 +32,6 @@ X[2] = X[1].front.hangTunnel()
 X[3] = MazeRoom(X[2]) 
 ```
 
-******************************************************************************
-More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
-
+##More Info:
+Origin: http://www.halfbakery.com/idea/3D_20Study_20Maze
 Note: this project is just a proof-of-concept. Not a scalable one.
