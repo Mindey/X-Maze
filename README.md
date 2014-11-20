@@ -9,7 +9,7 @@ The software would allow teachers to design their maze with tunnels and problems
 2. Run:
 python main.py
 
-## For Example:
+## For example:
 
 ```bash
 wget http://www.panda3d.org/download/panda3d-1.8.1/panda3d1.8_1.8.1~precise_amd64.deb
@@ -32,7 +32,7 @@ X[2] = X[1].front.hangTunnel()
 X[3] = MazeRoom(X[2]) 
 ```
 
-## More Info:
+## More info:
 
 * Origin: http://www.halfbakery.com/idea/3D_20Study_20Maze
 * Note: this project is just a proof-of-concept. Not a scalable one.
