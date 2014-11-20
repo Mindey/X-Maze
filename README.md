@@ -1,7 +1,7 @@
 X-Maze
 ======
 
-The software would allow teachers to design their maze with tunnels and problems within.
+The software would allow teachers to design their maze with tunnels and problems within ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 ******************************************************************************
 
@@ -24,9 +24,7 @@ python main.py
 
 ******************************************************************************
 
-* Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
-
-* Hello world:
+* Minimal hello world:
 
 ```bash
 mkdir X-Maze/mazes/X/
