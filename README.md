@@ -1,7 +1,7 @@
 X-Maze
 ======
 
-"The software would allow teachers to design their maze with tunnels and problems within."
+The software would allow teachers to design their maze with tunnels and problems within.
 
 ******************************************************************************
 
