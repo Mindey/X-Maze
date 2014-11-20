@@ -1,9 +1,7 @@
 X-Maze
 ======
 
-"The software would allow teachers to design their labyrinth rooms, where each room's walls and doors would be easily editable, and the labyrinth files exportable/sharable, and interconnect into one large maze, with custom rewards in each following room."
-
-More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
+"The software would allow teachers to design their labyrinth rooms with problems, and interconnect into one large maze, with custom rewards in each following room."
 
 Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 
@@ -37,3 +35,4 @@ X[3] = MazeRoom(X[2])
 ```
 
 ******************************************************************************
+More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
