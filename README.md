@@ -26,12 +26,9 @@ python main.py
 
 * Minimal hello world:
 
-```bash
+```python
 mkdir X-Maze/mazes/X/
 touch X-Maze/mazes/X/maze.py
-```
-
-```python
 # maze.py
 X = {}
 X[1] = MazeRoom(root)
