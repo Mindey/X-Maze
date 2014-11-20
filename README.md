@@ -41,3 +41,5 @@ X[3] = MazeRoom(X[2])
 
 ******************************************************************************
 More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
+
+Note: this project is just a proof-of-concept. Not a scalable one.
