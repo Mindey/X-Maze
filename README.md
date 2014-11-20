@@ -1,7 +1,9 @@
 X-Maze
 ======
+## About:
+The software is intended to use game addiction for real life problem solving ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
-The software would allow teachers to design their maze with tunnels and problems within ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
+The principle is to allow teachers to design their mazes with tunnels and problems inside tunnels.
 
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
