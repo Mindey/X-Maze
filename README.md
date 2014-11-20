@@ -1,12 +1,13 @@
 X-Maze
 ======
 ## About:
-The software is intended to use *GAME ADDICTION* for real life *PROBLEM SOLVING* ([VIDEO](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
+我写了这个程序为了试试把游戏成瘾现象应用太为了解决现实生活中的问题。
+The software is intended to use *GAME ADDICTION* for real life *PROBLEM SOLVING* ([视频](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 **PRINCIPLE** is to allow teachers to design their mazes with problems inside tunnels between rooms.<br>
 **REWARD** is to meet other people who move same direction, to unlock secrets together, and get money.<br>
-**MONEY FROM:** schools, universities, businesses.<br>
-**MONEY TO:** all people who play the game and solve problems inside it.
+
+**钱流：** { 学校，大学，企业 } -> { 解决了他们在游戏里包括的问题的玩儿家 }
 
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
