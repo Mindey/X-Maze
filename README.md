@@ -5,10 +5,7 @@ X-Maze
 
 Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 
-Try out the sample maze: http://mindey.com/3dmaze.zip
-
 ******************************************************************************
-Developed on Ubuntu 12.04 (64 bit version):
 
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
