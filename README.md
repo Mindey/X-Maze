@@ -1,5 +1,5 @@
-3d-study-maze
-=============
+X-Maze
+======
 
 "The software would allow teachers to design their labyrinth rooms, where each room's walls and doors would be easily editable, and the labyrinth files exportable/sharable, and interconnect into one large maze, with custom rewards in each following room."
 
