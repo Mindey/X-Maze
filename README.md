@@ -13,15 +13,19 @@ Developed on Ubuntu 12.04 (64 bit version):
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
 
-2. Git checkout, or download:
+2. Run:
+python main.py
+
+**For example:**
+
 ```bash
+wget http://www.panda3d.org/download/panda3d-1.8.1/panda3d1.8_1.8.1~precise_amd64.deb
+sudo dpkg -i panda3d1.8_1.8.1~precise_amd64.deb
 wget http://mindey.com/3dmaze.zip
 unzip 3dmaze.zip
 cd 3dmaze/
-```
-
-2. Run:
 python main.py
+```
 
 ******************************************************************************
 
