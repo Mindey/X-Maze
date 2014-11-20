@@ -2,7 +2,7 @@ X-Maze
 ======
 ## About:
 我写了这个程序为了试试把游戏成瘾现象应用太为了解决现实生活中的问题。
-The software is intended to use *GAME ADDICTION* for real life *PROBLEM SOLVING* ([视频](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
+The software is intended to use *GAME ADDICTION* for real life *PROBLEM SOLVING* ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 **PRINCIPLE** is to allow teachers to design their mazes with problems inside tunnels between rooms.<br>
 **REWARD** is to meet other people who move same direction, to unlock secrets together, and get money.<br>
