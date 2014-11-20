@@ -10,7 +10,7 @@ The software would allow teachers to design their maze with tunnels and problems
 2. Run:
 python main.py
 
-## Example:
+## For Example:
 
 ```bash
 wget http://www.panda3d.org/download/panda3d-1.8.1/panda3d1.8_1.8.1~precise_amd64.deb
