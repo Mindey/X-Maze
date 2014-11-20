@@ -1,0 +1,38 @@
+3d-study-maze
+=============
+
+"The software would allow teachers to design their labyrinth rooms, where each room's walls and doors would be easily editable, and the labyrinth files exportable/sharable, and interconnect into one large maze, with custom rewards in each following room."
+
+More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
+
+Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
+
+******************************************************************************
+
+In order to run this program, install Panda3D SDK ( http://www.panda3d.org ). It was developed and tested with Panda3D SDK version 1.8.1.
+
+******************************************************************************
+If you are running Ubuntu 12.04 (64 bit version), you can run this in 2 steps:
+
+
+3. Install:
+http://www.panda3d.org/download.php?sdk&version=1.8.1
+
+4. Run:
+python main.py
+
+******************************************************************************
+
+Hello world:
+
+```python
+# maze.py
+X = {}
+X[1] = MazeRoom(root)
+X[2] = X[1].front.hangTunnel()
+X[3] = MazeRoom(X[2]) 
+```
+
+******************************************************************************
+
+Try out a sample maze: http://mindey.com/3dmaze.zip
