@@ -26,6 +26,11 @@ python main.py
 
 Hello world:
 
+```bash
+mkdir X-Maze/mazes/X/
+touch X-Maze/mazes/X/maze.py
+```
+
 ```python
 # maze.py
 X = {}
