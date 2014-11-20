@@ -24,7 +24,7 @@ python main.py
 
 ******************************************************************************
 
-* Minimal hello world:
+## Hello world:
 
 ```python
 mkdir X-Maze/mazes/X/
