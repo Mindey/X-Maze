@@ -1,7 +1,7 @@
 X-Maze
 ======
 ## About:
-The software is intended to use game addiction for real life problem solving ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
+The software is intended to use _game addiction_ for real life problem solving ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
 The principle is to allow teachers to design their mazes with tunnels and problems inside tunnels.
 
