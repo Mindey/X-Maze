@@ -24,9 +24,9 @@ python main.py
 
 ******************************************************************************
 
-Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
+* Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 
-Hello world:
+* Hello world:
 
 ```bash
 mkdir X-Maze/mazes/X/
