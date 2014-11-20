@@ -7,7 +7,7 @@ The software is intended to use *GAME ADDICTION* for real life *PROBLEM SOLVING*
 **PRINCIPLE** is to allow teachers to design their mazes with problems inside tunnels between rooms.<br>
 **REWARD** is to meet other people who move same direction, to unlock secrets together, and get money.<br>
 
-**钱流：** { 学校，大学，企业 } -> { 解决了他们在游戏里包括的问题的玩儿家 }
+**钱流：** { 学校，大学，企业 } -> { 解决了在游戏里包括的问题的玩儿家 }
 
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
