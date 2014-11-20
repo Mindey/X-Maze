@@ -3,13 +3,10 @@ X-Maze
 ## About:
 The software is intended to use *game addiction* for real life problem solving ([video](http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html)).
 
-The principle is to allow teachers to design their mazes with problems inside tunnels between rooms.
-
-**Reward in rooms:** to find/meet other people who move same direction, to unlock secrets together.
-
-**Problem donors:** schools, universities, businesses.
-
-**Problem solvers:** all people who can use computers.
+**PRINCIPLE** is to allow teachers to design their mazes with problems inside tunnels between rooms.<br>
+**REWARD** is to find/meet other people who move same direction, to unlock secrets together, and get money.<br>
+**MONEY FROM:** schools, universities, businesses.
+**MONEY TO: ** all people who play the game.
 
 1. Install **Panda3D 1.8.1**:
 [http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
