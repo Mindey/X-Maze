@@ -8,18 +8,19 @@ Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 Try out the sample maze: http://mindey.com/3dmaze.zip
 
 ******************************************************************************
+Developed on Ubuntu 12.04 (64 bit version):
 
-In order to run this program, install Panda3D SDK ( http://www.panda3d.org ).
-It was developed and tested with Panda3D SDK version 1.8.1.
+1. Install **Panda3D 1.8.1**:
+[http://www.panda3d.org/download.php?sdk&version=1.8.1](http://www.panda3d.org/download.php?sdk&version=1.8.1)
 
-******************************************************************************
-If you are running Ubuntu 12.04 (64 bit version), you can run this in 2 steps:
+2. Git checkout, or download:
+```bash
+wget http://mindey.com/3dmaze.zip
+unzip 3dmaze.zip
+cd 3dmaze/
+```
 
-
-3. Install:
-http://www.panda3d.org/download.php?sdk&version=1.8.1
-
-4. Run:
+2. Run:
 python main.py
 
 ******************************************************************************
