@@ -7,9 +7,12 @@ More info: http://www.halfbakery.com/idea/3D_20Study_20Maze
 
 Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 
+Try out the sample maze: http://mindey.com/3dmaze.zip
+
 ******************************************************************************
 
-In order to run this program, install Panda3D SDK ( http://www.panda3d.org ). It was developed and tested with Panda3D SDK version 1.8.1.
+In order to run this program, install Panda3D SDK ( http://www.panda3d.org ).
+It was developed and tested with Panda3D SDK version 1.8.1.
 
 ******************************************************************************
 If you are running Ubuntu 12.04 (64 bit version), you can run this in 2 steps:
@@ -34,5 +37,3 @@ X[3] = MazeRoom(X[2])
 ```
 
 ******************************************************************************
-
-Try out a sample maze: http://mindey.com/3dmaze.zip
