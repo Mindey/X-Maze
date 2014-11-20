@@ -1,10 +1,6 @@
 X-Maze
 ======
 
-"The software would allow teachers to design their labyrinth rooms with problems, and interconnect into one large maze, with custom rewards in each following room."
-
-Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
-
 ******************************************************************************
 
 1. Install **Panda3D 1.8.1**:
@@ -25,6 +21,10 @@ python main.py
 ```
 
 ******************************************************************************
+
+"The software would allow teachers to design their labyrinth rooms with problems, and interconnect into one large maze, with custom rewards in each following room."
+
+Video: http://v.youku.com/v_show/id_XNTQ2MTgyNTU2.html
 
 Hello world:
 
